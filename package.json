@@ -1,0 +1,31 @@
+{
+  "name": "pubg-leaderboard-bot",
+  "version": "1.0.0",
+  "description": "Bot for the Bois",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jameseluke/PUBGLeaderboardBot.git"
+  },
+  "author": "James Luke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jameseluke/PUBGLeaderboardBot/issues"
+  },
+  "homepage": "https://github.com/Jameseluke/PUBGLeaderboardBot#readme",
+  "dependencies": {
+    "dateformat": "^3.0.2",
+    "discord.js": "^11.2.1",
+    "dom-to-image": "^2.6.0",
+    "easy-table": "^1.1.1",
+    "markdown-table": "^1.1.1",
+    "nedb": "^1.8.0",
+    "nodemon": "^1.14.11",
+    "table-builder": "^2.1.1",
+    "text-table": "^0.2.0",
+    "winston": "^2.4.0"
+  }
+}
