@@ -4,9 +4,6 @@ var auth = require('./auth.json');
 var Datastore = require('nedb');
 var Table = require('easy-table');
 var dateFormat = require('dateformat');
-var domtoimage = require('dom-to-image');
-var wkhtml = require('wkhtmltoimage');
-var fs = require('file-system');
 
 //logger configuration
 logger.remove(logger.transports.Console);
